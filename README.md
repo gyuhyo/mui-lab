@@ -1,4 +1,4 @@
-# @mui/lab
+# @gyuhyo/mui-lab Fork Version
 
 This package hosts the incubator components that are not yet ready to move to `core`.
 
